@@ -1,5 +1,5 @@
-Java is an object oriented programming language and developed under James.
+Java is an object oriented programming language which was released in year 1995 and developed under James.
 Java was developed by Sun Microsystem
 Java was acquired by Oracle
 There are 15 versions of Java
-Java is a robust language
+Java is a robust and Secured language
